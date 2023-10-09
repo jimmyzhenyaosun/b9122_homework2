@@ -1,5 +1,6 @@
 # b9122_homework2
  Creating repository for CBR hw2
+ Author: Zhenyao Sun
 
 Write web crawlers for the following two tasks:
 
